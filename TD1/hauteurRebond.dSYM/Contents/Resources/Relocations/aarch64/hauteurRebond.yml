@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/elias/Desktop/INF1015/TP1/hauteurRebond'
+relocations:     []
+...
