@@ -1,4 +1,0 @@
-/Users/elias/Desktop/INF1015/TD2-H25-Solutionnaire/cmake-build-debug/CMakeFiles/ProjetTD2.dir
-/Users/elias/Desktop/INF1015/TD2-H25-Solutionnaire/cmake-build-debug/CMakeFiles/ProjetTD2_couverture.dir
-/Users/elias/Desktop/INF1015/TD2-H25-Solutionnaire/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/elias/Desktop/INF1015/TD2-H25-Solutionnaire/cmake-build-debug/CMakeFiles/rebuild_cache.dir
